@@ -1,1 +1,5 @@
 New file name created in new branch.
+merget this file to all branches we created.
+ensure the file is pushed to all braches.
+once files are pushed please add the file using git add command and commit to push all changes.
+and later push the code to git hub using git push command.
